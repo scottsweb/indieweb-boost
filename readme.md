@@ -21,6 +21,8 @@ A list of list sites. Places to promote, share and disocver IndieWeb sites.
 
 ## Books
 
+* [Internet Phone Book](https://internetphonebook.net/) — An annual publication for exploring the vast poetic web.
+
 ## Other
 
 * [Utopia Showcase](https://utopia.fyi/showcase/) — A showcase of sites using Utopia fluid type.
