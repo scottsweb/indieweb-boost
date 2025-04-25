@@ -1,6 +1,6 @@
 # IndieWeb Boost
 
-A list of list sites. Places to promote, share and discover IndieWeb sites.
+A list of list sites. Places to promote, share and discover IndieWeb sites and communities.
 
 ## General
 
