@@ -22,10 +22,16 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 * [512kb Club](https://512kb.club/) — The 512KB Club is a collection of performance-focused web pages.
 * [1MB Club](https://1mb.club) — Performance-focused web pages weighing less than 1 megabyte.
 * [lowww.directory](https://www.lowww.directory/) — A showcase of low carbon, small footprint sites.
+* [sustainable.dev](https://the-sustainable.dev/directory/) — A showcase of low carbon, small footprint sites.
 
 ## Search Engines / Directories
 
 * [ooh.directory](https://ooh.directory/) — ooh.directory is a place to find good blogs that interest you.
+
+## Fediverse
+
+* [Fediverse People Directory](https://fediverse.info/explore/people) — Explore 5.5K+ people across the fediverse organised by interest.
+* [FediDB](https://fedidb.com/) — Fediverse network stats.
 
 ## Webrings
 
@@ -36,3 +42,4 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 ## Other
 
 * [Utopia Showcase](https://utopia.fyi/showcase/) — A showcase of sites using Utopia fluid type.
+* [11ty Community](https://github.com/11ty/11ty-community) — A database of #BuiltWithEleventy web sites. 
