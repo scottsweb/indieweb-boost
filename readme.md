@@ -35,9 +35,11 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 
 ## Webrings
 
+* [https://a11y-webring.club/](https://a11y-webring.club/) — A webring for digital accessibility practitioners .
 * [Fediring](https://fediring.net/) — Webring for fedizens.
 * [CSS JOY Webring](https://cs.sjoy.lol/) — For those of us who take joy in messing around with CSS.
 * [The RSS Webring](https://mxbo.neocities.org/rss/ring) — This webring is for people who have an RSS feed.
+* [No AI Webring](https://baccyflap.com/noai/) — Sites rejecting AI.
 
 ## Books
 
