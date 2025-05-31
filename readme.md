@@ -40,6 +40,7 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 * [CSS JOY Webring](https://cs.sjoy.lol/) — For those of us who take joy in messing around with CSS.
 * [The RSS Webring](https://mxbo.neocities.org/rss/ring) — This webring is for people who have an RSS feed.
 * [No AI Webring](https://baccyflap.com/noai/) — Sites rejecting AI.
+* [Geekring](https://geekring.net/) — If you're a geek, this is for you.
 
 ## Books
 
