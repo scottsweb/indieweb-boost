@@ -35,6 +35,10 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 
 ## Webrings
 
+* [Fediring](https://fediring.net/) — Webring for fedizens.
+* [CSS JOY Webring](https://cs.sjoy.lol/) — For those of us who take joy in messing around with CSS.
+* [The RSS Webring](https://mxbo.neocities.org/rss/ring) — This webring is for people who have an RSS feed.
+
 ## Books
 
 * [Internet Phone Book](https://internetphonebook.net/) — An annual publication for exploring the vast poetic web.
@@ -42,4 +46,6 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 ## Other
 
 * [Utopia Showcase](https://utopia.fyi/showcase/) — A showcase of sites using Utopia fluid type.
-* [11ty Community](https://github.com/11ty/11ty-community) — A database of #BuiltWithEleventy web sites. 
+* [11ty Community](https://github.com/11ty/11ty-community) — A database of #BuiltWithEleventy web sites.
+* [Eleventy Super Professional Business Network](https://www.11ty.dev/super-professional-business-network/) — People using #11ty for business.
+* [Distributed Press](https://distributed.press/) — Publish your site to the peer-to-peer (P2P) and decentralized web (via IPFS / Hyper).
