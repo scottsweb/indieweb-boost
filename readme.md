@@ -6,8 +6,6 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 
 * [Personalsit.es](https://personalsit.es/) — A place share and revel in each others’ personal sites.
 
-## Galleries
-
 ## /Now
 
 * [nownownow.com](https://nownownow.com/) — Websites with /now pages.
@@ -23,6 +21,7 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 * [1MB Club](https://1mb.club) — Performance-focused web pages weighing less than 1 megabyte.
 * [lowww.directory](https://www.lowww.directory/) — A showcase of low carbon, small footprint sites.
 * [sustainable.dev](https://the-sustainable.dev/directory/) — A showcase of low carbon, small footprint sites.
+* [Dead Simple Sites](https://deadsimplesites.com/) — The most minimal sites on the web, curated in one place.
 
 ## Search Engines / Directories
 
