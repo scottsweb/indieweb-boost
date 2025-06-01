@@ -5,6 +5,7 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 ## General
 
 * [Personalsit.es](https://personalsit.es/) — A place share and revel in each others’ personal sites.
+* [Gossip’s Web](https://gossipsweb.net) — Gossips is a directory of personal websites, web experiments, and community sites.
 
 ## /Now
 
