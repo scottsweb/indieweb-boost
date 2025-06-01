@@ -41,6 +41,7 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 * [The RSS Webring](https://mxbo.neocities.org/rss/ring) — This webring is for people who have an RSS feed.
 * [No AI Webring](https://baccyflap.com/noai/) — Sites rejecting AI.
 * [Geekring](https://geekring.net/) — If you're a geek, this is for you.
+* [Bucket Webring](https://webring.bucketfish.me/) — This is a webring for people who like to make things.
 
 ## Books
 
