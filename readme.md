@@ -5,7 +5,6 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 ## General
 
 * [Personalsit.es](https://personalsit.es/) — A place share and revel in each others’ personal sites.
-* [Gossip’s Web](https://gossipsweb.net) — Gossips is a directory of personal websites, web experiments, and community sites.
 * [The Forest](https://theforest.link) — Go for a walk and enjoy getting lost on the web.
 
 ## /Now
@@ -28,6 +27,7 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 ## Search Engines / Directories
 
 * [Curlie](https://curlie.org) — Curlie strives to be the largest human-edited directory of the Web.
+* [Gossip’s Web](https://gossipsweb.net) — Gossips is a directory of personal websites, web experiments, and community sites.
 * [indieseek.xyz](https://indieseek.xyz) — A human edited, Indieweb directory.
 * [ooh.directory](https://ooh.directory/) — ooh.directory is a place to find good blogs that interest you.
 * [Marginalia Search](https://marginalia-search.com/) — An independent open source Internet search engine operating out of Sweden.
