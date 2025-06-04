@@ -6,6 +6,7 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 
 * [Personalsit.es](https://personalsit.es/) — A place share and revel in each others’ personal sites.
 * [The Forest](https://theforest.link) — Go for a walk and enjoy getting lost on the web.
+* [indieblog.page](https://indieblog.page/) — Discover the IndieWeb, one blog post at a time.
 
 ## /Now
 
