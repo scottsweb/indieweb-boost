@@ -27,7 +27,7 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 ## Search Engines / Directories
 
 * [ooh.directory](https://ooh.directory/) — ooh.directory is a place to find good blogs that interest you.
-* [Marginalia Search](https://marginalia-search.com/) — Marginalia Search is an independent open source Internet search engine operating out of Sweden. 
+* [Marginalia Search](https://marginalia-search.com/) — An independent open source Internet search engine operating out of Sweden. 
 
 ## Fediverse
 
