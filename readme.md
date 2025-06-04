@@ -26,8 +26,11 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 
 ## Search Engines / Directories
 
+* [Curlie](https://curlie.org) — Curlie strives to be the largest human-edited directory of the Web.
+* [indieseek.xyz](https://indieseek.xyz) — A human edited, Indieweb directory.
 * [ooh.directory](https://ooh.directory/) — ooh.directory is a place to find good blogs that interest you.
-* [Marginalia Search](https://marginalia-search.com/) — An independent open source Internet search engine operating out of Sweden. 
+* [Marginalia Search](https://marginalia-search.com/) — An independent open source Internet search engine operating out of Sweden.
+* [Wiby](https://wiby.me/) — a search engine for simpler times.
 
 ## Fediverse
 
