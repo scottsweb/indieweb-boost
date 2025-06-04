@@ -56,5 +56,6 @@ A list of list sites. Places to share and discover IndieWeb sites and communitie
 
 * [Utopia Showcase](https://utopia.fyi/showcase/) — A showcase of sites using Utopia fluid type.
 * [11ty Community](https://github.com/11ty/11ty-community) — A database of #BuiltWithEleventy web sites.
+* [11ty Bundle](https://11tybundle.dev/) — A curated hub for the Eleventy community.
 * [Eleventy Super Professional Business Network](https://www.11ty.dev/super-professional-business-network/) — People using #11ty for business.
 * [Distributed Press](https://distributed.press/) — Publish your site to the peer-to-peer (P2P) and decentralized web (via IPFS / Hyper).
